@@ -1,3 +1,7 @@
+// Write a recursive function that will find the number of odd numbers of an array of integers. The function accepts as an arguments the array for which the number of odd numbers is required and the total number of elements in the array. The function is given with the following prototype:
+// int Odd (int a [], int n);
+// Also write the main () function to test the Odd function.
+
 #include <stdio.h>
 
 int odd(int a[100], int n){
@@ -23,6 +27,3 @@ int main(){
 }
 
 
-// Write a recursive function that will find the number of odd numbers of an array of integers. The function accepts as an arguments the array for which the number of odd numbers is required and the total number of elements in the array. The function is given with the following prototype:
-// int Odd (int a [], int n);
-// Also write the main () function to test the Odd function.
